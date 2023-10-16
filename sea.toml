@@ -1,0 +1,3 @@
+[database]
+debug = true
+database_url = "postgresql://postgres:root@localhost/seaorm"
